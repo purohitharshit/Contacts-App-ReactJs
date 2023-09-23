@@ -1,4 +1,4 @@
 # Contacts App
 
-Welcome to Contacts-App, a web application designed to help you manage your contacts effortlessly. With Contacts-App, you can create, update, save, and delete contact information quickly and efficiently.
+Welcome to the Contacts App, a web application built using ReactJs and Firebase to help you manage your contacts efficiently. With Contacts-App, you can create, update, save, and delete contact information quickly and effortlessly.
 
